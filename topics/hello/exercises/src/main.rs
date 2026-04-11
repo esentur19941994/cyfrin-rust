@@ -1,6 +1,3 @@
-// Attribute that tells the Rust compiler to suppress warnings
-// about unused code
-// Attributes - metadata for the compiler
 fn main() {
     println!("Hello, Rust!");
 }
